@@ -22,7 +22,8 @@ Um gerenciador simples e eficaz de tarefas diárias (To-Do List), desenvolvido c
 
 ## 📸 Preview
 
-![Preview da aplicação](./screenshot.png) <!-- Adicione um print aqui -->
+![Preview da aplicação](![image](https://github.com/user-attachments/assets/988611c6-79a4-4f1b-a605-0542abd19b3e)
+ <!-- Adicione um print aqui -->
 
 ## 🛠️ Instalação e Uso
 
