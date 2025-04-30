@@ -22,6 +22,8 @@ Um gerenciador simples e eficaz de tarefas diárias (To-Do List), desenvolvido c
 
 ## 📸 Preview
 
+https://gerenciadordiariov.vercel.app/
+
 (![image](https://github.com/user-attachments/assets/988611c6-79a4-4f1b-a605-0542abd19b3e)
  <!-- Adicione um print aqui -->
 
