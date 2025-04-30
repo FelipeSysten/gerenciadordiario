@@ -22,17 +22,17 @@ Um gerenciador simples e eficaz de tarefas diárias (To-Do List), desenvolvido c
 
 ## 📸 Preview
 
-![Preview da aplicação](![image](https://github.com/user-attachments/assets/988611c6-79a4-4f1b-a605-0542abd19b3e)
+(![image](https://github.com/user-attachments/assets/988611c6-79a4-4f1b-a605-0542abd19b3e)
  <!-- Adicione um print aqui -->
 
 ## 🛠️ Instalação e Uso
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/FelipeSysten/gerenciadordiario
 
 # Acesse o diretório
-cd nome-do-repo
+cd gerenciadordiario
 
 # Instale as dependências
 npm install
@@ -43,8 +43,7 @@ Acesse: http://localhost:5173
 
 🔧 Estrutura de Pastas
 css
-Copiar
-Editar
+
 src/
 ├── components/
 │   ├── TaskItem.tsx
@@ -58,10 +57,10 @@ src/
 ├── App.tsx
 ├── main.tsx
 └── styles/
+
 🧩 Tipo da Tarefa
 ts
-Copiar
-Editar
+
 export interface Task {
   id: string;
   title: string;
@@ -75,16 +74,15 @@ export interface Task {
 🌐 Backend com autenticação e persistência via API
 
 👨‍💻 Autor
-Feito com ❤️ por Seu Nome
+Feito com ❤️ por Felipe de Souza
 Entre em contato para feedbacks, ideias ou colaborações!
 
 📄 Licença
 Este projeto está sob a licença MIT.
 
 yaml
-Copiar
-Editar
+
 
 ---
 
-Quer que eu inclua também badges do GitHub (build, license, etc), ou transformar esse projeto em algo mais r
+Quer que eu inclua também badges do GitHub (build, license, etc), ou transformar esse projeto em algo mais robusto (ex: com Firebase, Auth, etc)?
